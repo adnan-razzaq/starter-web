@@ -10,6 +10,9 @@ Sample website with plenty of files for demos
 this is an example to show the comparisons
 
 ## deployment
+as stated above
 
 
 ## how to contribute
+
+i dont know
